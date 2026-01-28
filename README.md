@@ -7,6 +7,7 @@ This is clone web page pf NETFLIX front home page ,maded using html,js,css and a
 
  
  Netflix-style homepage UI
+ 
 
  
  Fully responsive design (mobile, tablet, desktop)
