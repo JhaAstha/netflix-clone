@@ -1,7 +1,9 @@
 This is clone web page pf NETFLIX front home page ,maded using html,js,css and also learned using APIs keys.
 
 
- Features
+
+ 
+ Features:-
 
  
  Netflix-style homepage UI
@@ -23,3 +25,20 @@ This is clone web page pf NETFLIX front home page ,maded using html,js,css and a
 
  
  Smooth UI interactions
+
+
+
+
+
+ Technologies Used:-
+
+ 
+HTML5 – Page structure
+
+
+CSS3 – Styling, Flexbox, Grid, responsiveness
+
+
+JavaScript (Vanilla JS) – Basic interactivity
+
+
